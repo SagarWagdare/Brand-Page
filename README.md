@@ -1,1 +1,3 @@
-![image](https://github.com/SagarWagdare/Brand-Page/assets/122525256/27526317-031b-444a-b8f3-b5edd7c0cf01)
+![BrandPage](https://github.com/user-attachments/assets/f404d74e-e245-48a2-9691-a7b545bce264)
+
+<img src="https://socialify.git.ci/SagarWagdare/Brand-Page/image?language=1&name=1&pattern=Solid&theme=Dark" alt="Brand-Page" width="640" height="320" />
